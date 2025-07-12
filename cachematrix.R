@@ -1,6 +1,9 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
+## makeCacheMatrix is a function that caches a matrix and evaluates if the user entered a valid matrix or not. 
+## cacheSolve returns the inverse of a cached matrix. 
+
 ## Write a short comment describing this function
 ##evaluates if X is a matrix and outputs yes if so. If no, outputs that x is not a matrix
 
